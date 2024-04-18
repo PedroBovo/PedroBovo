@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Bom+dia,+boa+tarde,+boa+noite!;+Me+chamo+Pedro+Bovo+💥" />
 </h1>
 
-Sou um estudante de tecnologia, fascinado por aprender, gosto muito das tecnologias voltadas pro Beck-End, mas procuro ser Full-Stack 
+Sou um estudante de tecnologia, fascinado por aprender, gosto muito das tecnologias voltadas pro Back-End, mas procuro ser Full-Stack 
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBovo&theme=dark&show_icons=true&text_color=FFF"> 
   <img heigth="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroBovo&theme=dark&layout=compact&text_color=FFF"> 
