@@ -1,4 +1,6 @@
-# ⛩ Bom dia, boa tarde, boa noite eu sou o Pedro Bovo
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Bom+dia,+boa+tarde,+boa+noite!;+Me+chamo+Pedro+Bovo+💥" />
+</h1>
 
 Sou um estudante de tecnologia, fascinado por aprender, gosto muito das tecnologias voltadas pro Beck-End, mas procuro ser Full-Stack 
 <div>
@@ -18,12 +20,18 @@ Sou um estudante de tecnologia, fascinado por aprender, gosto muito das tecnolog
           
 </div>
 
+
+
           
           
 
 ## 🗣 Fala comigo amigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-bovo-rodrigues-092393291/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pedrohenrique.bovorodrigues) 	[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@bovotech) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pedrobovo123@gmail.com)
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
 
 
 
