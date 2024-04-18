@@ -27,5 +27,4 @@ Sou um estudante de tecnologia, fascinado por aprender, gosto muito das tecnolog
 
 
 
-![snake gif](https://github.com/PedroBovo/PedroBovo/blob/output/github-contribution-grid-snake.gif)
 
