@@ -7,9 +7,19 @@ Sou um estudante de tecnologia, fascinado por aprender, gosto muito das tecnolog
 </div>
 
 ## 🤹‍♂️ Habilidades
+<div>
+  <img align="center" alt="Pedro-Jv" height="40" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Pedro-Jv" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
+  <img align="center" alt="Pedro-Jv" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Pedro-Jv" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Pedro-Jv" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+          
+          
+          
+</div>
 
-![Java](https://img.shields.io/badge/java-red.svg?style=for-the-badge&logo=openjdk&logoColor=000) 	![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=mysql&logoColor=000) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) 	![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
+          
+          
 
 ## 🗣 Fala comigo amigo
 
