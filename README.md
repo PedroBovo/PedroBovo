@@ -2,16 +2,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Bom+dia,+boa+tarde,+boa+noite!;+Me+chamo+Pedro+Bovo+💥" />
 </h1>
 
-Sou um estudante de tecnologia, fascinado por aprender, gosto muito das tecnologias voltadas pro Back-End, mas procuro ser Full-Stack 
-<div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBovo&theme=dark&show_icons=true&text_color=FFF"> 
-  <img heigth="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroBovo&theme=dark&layout=compact&text_color=FFF"> 
-</div>
+Sou um estudante de tecnologia, fascinado por aprender, gosto muito das tecnologias voltadas pro Back-End a Android
+
 
 ## 🤹‍♂️ Habilidades
 <div>
   <img align="center" alt="Pedro-Jv" height="40" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Pedro-Jv" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
+  <img align="center" alt="Pedro-Jv" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original-wordmark.svg" >
   <img align="center" alt="Pedro-Jv" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="Pedro-Jv" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Pedro-Jv" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
